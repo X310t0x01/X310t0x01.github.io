@@ -1,9 +1,9 @@
 ---
-title: Text and Typography
+title: Steel Mountain
 author: cotes
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+date: 2024-01-13 11:33:00 +0800
+categories: [TryHackMe, PrivEsc, Windows]
+tags: [TryHackMe]
 pin: true
 math: true
 mermaid: true
