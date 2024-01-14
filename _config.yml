@@ -73,7 +73,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ![Image2](/Images/Image2.jpeg "Image2")
+avatar:
 
 
 
