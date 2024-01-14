@@ -1,6 +1,6 @@
 ---
 title: Steel Mountains
-author: cotes
+author: X310t0x01
 date: 2024-01-13 11:33:00 +0800
 categories: [TryHackMe, PrivEsc, Windows, Mac OS]
 tags: [TryHackMe]
@@ -9,7 +9,7 @@ math: true
 mermaid: true
 ---
 
-# TryHackMe: Steel Mountain WriteUp (MAC OS)
+#### TryHackMe: Steel Mountain WriteUp (MAC OS)
 
 The TryHackMe Steel Mountain challenge is a hands-on cybersecurity task, simulating a real-world penetration test against a Windows system. Participants engage in stages like reconnaissance, exploitation, and privilege escalation using tools like Nmap, Metasploit, and PowerShell scripts. The challenge focuses on exploiting vulnerabilities such as unquoted service paths and misconfigurations in HTTP File Server.
 
