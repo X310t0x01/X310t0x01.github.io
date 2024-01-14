@@ -70,10 +70,11 @@ theme_mode: dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-# img_cdn:
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: Images/PortScan.png
+avatar: https://c7.alamy.com/comp/2F33NY6/computer-glitch-program-bug-or-error-background-with-code-lines-and-screen-pixels-noise-software-development-problem-system-critical-mistake-or-har-2F33NY6.jpg
+
 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
