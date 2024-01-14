@@ -73,7 +73,7 @@ theme_mode: dark
 # img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-# avatar:
+avatar: https://vistapointe.net/images/glitch-wallpaper-5.jpg
 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
