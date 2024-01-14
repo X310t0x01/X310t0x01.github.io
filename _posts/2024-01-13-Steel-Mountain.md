@@ -9,5 +9,7 @@ math: true
 mermaid: true
 ---
 
+# TryHackMe: Steel Mountain WriteUp
+
 
 
