@@ -4,7 +4,7 @@ author: X310t0x01
 date: 2024-01-13 11:33:00 +0800
 categories: [TryHackMe, PrivEsc, Windows, Mac OS]
 tags: [TryHackMe]
-pin: false
+pin: true
 math: true
 mermaid: true
 ---
